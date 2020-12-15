@@ -57,7 +57,7 @@ Each release includes anchor respondent, partner, children, parents, and parenti
 For more detailed information on available data sets, see our [data structure summary](https://www.pairfam.de/en/data/data-structure/).
 
 ### Number of observations
-|Wave|Anchor|Anchor (DemoDiff)|Anchor ("step-ups")|Partner|Partner (DemoDiff)|Partner ("step-ups")| Child(ren) |Parent(s)|Parenting|PAYA|ParentingU6|ParentingU6 (“step-ups”)|Total|
+|Wave|Anchor|Anchor (DemoDiff)|Anchor ("stepups")|Partner|Partner (DemoDiff)|Partner ("stepups")| Child(ren) |Parent(s)|Parenting|PAYA|ParentingU6|ParentingU6 (“stepups”)|Total|
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |1|12402|1489|- |3743|684|-|-|-|-|-|-|-|18318|
 |2|9069|1173|-|2688|-|-|862|5015|1169|-|-|-|19976|
@@ -72,7 +72,7 @@ For more detailed information on available data sets, see our [data structure su
 |11|9435|-|483|2695|-|50|1284|-|2955|1031|841|3|18777|
 
 ### Number of variables
-|Wave|Anchor|Anchor (DemoDiff)|Anchor ("step-ups")|Anchor (“step-ups” transition)|Anchor auxiliary study|Partner|Partner (DemoDiff)|Partner ("step-ups")| Child(ren) |Parent(s)|Parenting|PAYA|ParentingU6|ParentingU6 (“step-ups”)|Total|
+|Wave|Anchor|Anchor (DemoDiff)|Anchor ("stepups")|Anchor (“stepups” transition)|Anchor auxiliary study|Partner|Partner (DemoDiff)|Partner ("stepups")| Child(ren) |Parent(s)|Parenting|PAYA|ParentingU6|ParentingU6 (“stepups”)|Total|
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |1|1456|1451|-|-|-|233|233|-|-|-|-|-|-|-|3373|
 |2|3894|18|-|-|-|274|-|-|131|360|83|-|-|-|4760|
