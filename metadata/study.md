@@ -59,7 +59,7 @@ For more detailed information on available data sets, see our [data structure su
 
 ### Number of observations
 |Wave|Anchor|Anchor (DemoDiff)|Anchor ("stepups")|Partner|Partner (DemoDiff)|Partner ("stepups")| Child(ren) |Parent(s)|Parenting|PAYA|ParentingU6|ParentingU6 (“stepups”)|Total|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1|12402|1489|- |3743|684|-|-|-|-|-|-|-|18318|
 |2|9069|1173|-|2688|-|-|862|5015|1169|-|-|-|19976|
 |3|9074|-|-|2939|-|-|987|3946|1408|-|-|-|18354|
@@ -74,7 +74,7 @@ For more detailed information on available data sets, see our [data structure su
 
 ### Number of variables
 |Wave|Anchor|Anchor (DemoDiff)|Anchor ("stepups")|Anchor (“stepups” transition)|Anchor auxiliary study|Partner|Partner (DemoDiff)|Partner ("stepups")| Child(ren) |Parent(s)|Parenting|PAYA|ParentingU6|ParentingU6 (“stepups”)|Total|
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |1|1456|1451|-|-|-|233|233|-|-|-|-|-|-|-|3373|
 |2|3894|18|-|-|-|274|-|-|131|360|83|-|-|-|4760|
 |3|4297|-|-|-|-|281|-|-|150|221|47|-|-|-|4996|
@@ -104,7 +104,7 @@ To ensure confidentiality for all respondents, pairfam adheres to strict securit
 
 ### Data sets
 | Name | Label | Period |Analysis unit |
-|---:|---:|---:|---:|
+|:---|:---|:---|:---|
 |anchor1|Anchor data, Wave 1 (2008/09)|Wave 1|anchor|
 |anchor1\_DD|Anchor data, DemoDiff subsample, Wave 1 (2008/09)|Wave 1|anchor|
 |anchor2|Anchor data, Wave 2 (2009/10)|Wave 2|anchor|
