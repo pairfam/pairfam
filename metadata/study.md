@@ -28,8 +28,7 @@ The German Family Panel pairfam (“Panel Analysis of Intimate Relationships and
 
 ## Method
 *   Data collection agent: Kantar Public (formerly TNS Infratest Social Research)
-*   Population: 12,402 German residents of the three birth cohorts 1971-73, 1981-83, 1991-93 (wave1)
-                6,000 German residents from the three birth cohorts 1981-83, 1991-91, 2001-03 (wave11)
+*   Population: 12,402 German residents of the three birth cohorts 1971-73, 1981-83, 1991-93 (wave1) / 6,000 German residents from the three birth cohorts 1981-83, 1991-91, 2001-03 (wave11)
 *   Selection method: All samples stem from multi-stage nationwide random samples that are regionally clustered.
 *   Collection mode: Interviews are conducted annually via computer-assisted personal interviewing (CAPI) with an integrated self-administered (CASI) module.
 
