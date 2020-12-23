@@ -19,7 +19,7 @@ Publications using these data should cite the DOI (doi: 10.4232/pairfam.5678.11.
   * Huinink, Johannes, Josef Brüderl, Bernhard Nauck, Sabine Walper, Laura Castiglioni, & Michael Feldhaus. 2011. Panel Analysis of Intimate Relationships and Family Dynamics (pairfam): Conceptual framework and design. Zeitschrift für Familienforschung - Journal of Family Research 23: 77-101.
 
 ## Study info
-The German Family Panel pairfam (“Panel Analysis of Intimate Relationships and Family Dynamics”), launched in 2008, is a multidisciplinary, longitudinal study of partnership and family dynamics in Germany. Survey data is collected annually from a nationwide random sample of initially more than 12,000 German residents of the four birth cohorts 1971-73, 1981-83, 1991-93, and 2001-03 and their partners, parents, and children. The multi-actor structure of the pairfam data offers unique opportunities for the analysis of partner and generational relationships as they develop over the course of multiple life phases. The questionnaires for anchor respondents, their partners, parents, and children differ in length and content, but are broadly similar in terms of the main topics:
+The German Family Panel pairfam (“Panel Analysis of Intimate Relationships and Family Dynamics”), launched in 2008, is a multidisciplinary, longitudinal study of partnership and family dynamics in Germany. Survey data is collected annually from a nationwide random sample of initially more than 12,000 German residents of the three birth cohorts 1971-73, 1981-83, 1991-93 and their partners, parents, and children. In wave 11, a supplementary refreshment sample of 6,000 respondents from the birth cohorts 1981-1983, 1991-93, and a new cohort born 2001-03 was integrated into the panel. The multi-actor structure of the pairfam data offers unique opportunities for the analysis of partner and generational relationships as they develop over the course of multiple life phases. The questionnaires for anchor respondents, their partners, parents, and children differ in length and content, but are broadly similar in terms of the main topics:
 *   Partnership formation and development
 *   Transition to first and consecutive births
 *   Intergenerational relationships
@@ -28,7 +28,8 @@ The German Family Panel pairfam (“Panel Analysis of Intimate Relationships and
 
 ## Method
 *   Data collection agent: Kantar Public (formerly TNS Infratest Social Research)
-*   Population: 12,402 German residents of the three birth cohorts 1971-73, 1981-83, 1991-93
+*   Population: 12,402 German residents of the three birth cohorts 1971-73, 1981-83, 1991-93 (wave1)
+                6,000 German residents from the three birth cohorts 1981-83, 1991-91, 2001-03 (wave11)
 *   Selection method: All samples stem from multi-stage nationwide random samples that are regionally clustered.
 *   Collection mode: Interviews are conducted annually via computer-assisted personal interviewing (CAPI) with an integrated self-administered (CASI) module.
 
