@@ -170,9 +170,9 @@ To ensure confidentiality for all respondents, pairfam adheres to strict securit
 | Name | Label | Period |Analysis unit |
 |:---|:---|:---|:---|
 |anchor1|Anchor data, Wave 1 (2008/09)|wave1|anchor|
-|anchor1\_DD|Anchor data, DemoDiff subsample, Wave 1 (2008/09)|Wave 1|anchor|
+|anchor1\_DD|Anchor data, DemoDiff subsample, Wave 1 (2008/09)|wave1|anchor|
 |anchor2|Anchor data, Wave 2 (2009/10)|wave2|anchor|
-|anchor2\_DD|Anchor data, DemoDiff subsample (childhood history), Wave 2 (2009/10)|Wave 2|anchor|
+|anchor2\_DD|Anchor data, DemoDiff subsample (childhood history), Wave 2 (2009/10)|wave2|anchor|
 |anchor3|Anchor data, Wave 3 (2010/11)|wave3|anchor|
 |anchor4|Anchor data, Wave 4 (2011/12)|wave4|anchor|
 |anchor5|Anchor data, Wave 5 (2012/13)|wave5|anchor|
